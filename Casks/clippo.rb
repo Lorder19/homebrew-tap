@@ -1,6 +1,6 @@
 cask "clippo" do
-  version "0.3.5"
-  sha256 "be2c0c09bd2cbaea19a42d9bb4b5fd4d5727dd99defcd673f35d50747242e63a"
+  version "0.3.6"
+  sha256 "440dd709506f9ed5c4d821d5dd5428018ea23a2db828dde557a66c294e4e5b2d"
 
   url "https://github.com/Lorder19/clippo/releases/download/v#{version}/Clippo.zip"
   name "Clippo"
